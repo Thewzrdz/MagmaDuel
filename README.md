@@ -1,0 +1,2 @@
+# MagmaDuel
+PVP Card Game
